@@ -3,7 +3,7 @@ By Ryan Burstiner, Robert Delorne, Jonathan Gilbertson, Brett Serwin, and Dylan 
 
 # Group Project 1
 
-Dylan Vila, Jonathan Gilbertson, Robert Delorme, Ryan Burstiner, Brett Serwin
+Ryan Burstiner, Robert Delorne, Jonathan Gilbertson, Brett Serwin, and Dylan Vila 
 
 
 ## Problem Description
@@ -44,7 +44,8 @@ The database project will be crucial for us to manage these aspects effectively.
 
 
 ## Data Model
-[GroupProjectDataModel.pdf](https://github.com/dylanvila1/MIST4610GroupProject1/files/13291427/GroupProjectDataModel.pdf)
+![GroupProject1DataModel](https://github.com/dylanvila1/MIST4610GroupProject1/assets/131492435/dcbe9263-f8a5-4608-8f81-af385466ded1)
+
 
 
 ## Data Dictionary 
